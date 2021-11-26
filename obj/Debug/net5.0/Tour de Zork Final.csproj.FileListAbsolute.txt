@@ -1,0 +1,16 @@
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.csproj.AssemblyReference.cache
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.AssemblyInfoInputs.cache
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.AssemblyInfo.cs
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.csproj.CoreCompileInputs.cache
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.exe
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.deps.json
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.runtimeconfig.json
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.runtimeconfig.dev.json
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.dll
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\ref\Tour de Zork Final.dll
+C:\Users\dstrk\Desktop\Tour de Zork Final\bin\Debug\net5.0\Tour de Zork Final.pdb
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.dll
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\ref\Tour de Zork Final.dll
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.pdb
+C:\Users\dstrk\Desktop\Tour de Zork Final\obj\Debug\net5.0\Tour de Zork Final.genruntimeconfig.cache
