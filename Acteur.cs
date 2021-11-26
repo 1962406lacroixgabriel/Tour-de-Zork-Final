@@ -32,7 +32,7 @@ namespace Tour_de_Zork_Final
         public void Attaquer(Acteur autreActeur)
         {
             Random rng = new Random();
-            int aleatoire = rng.Next (98,101);
+            int aleatoire = rng.Next (0,101);
             int degats = 0;
             
             if(aleatoire >= this.TauxCritique)
